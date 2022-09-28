@@ -1,0 +1,5 @@
+{
+    "template": "https://github.com/ByAVM/package-template.git",
+    "files": [".s21toolkitrc.json"],
+    "updateConfig": true
+}
